@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.aTrainingTracker",
+    "package_name": "com.atrainingtracker",
     "sha256_cert_fingerprints":
     ["F5:5C:DE:D1:6A:73:C9:F7:ED:64:45:62:1D:6B:19:61:3A:11:A8:54:A2:5C:A9:5A:19:76:B1:DD:5A:DF:52:48"]
   }
